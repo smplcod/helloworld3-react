@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/helloworld3-react/static/css/main.31d6cfe0.css",
-    "main.js": "/helloworld3-react/static/js/main.1865831a.js",
+    "main.js": "/helloworld3-react/static/js/main.31d981ca.js",
     "index.html": "/helloworld3-react/index.html",
-    "main.1865831a.js.map": "/helloworld3-react/static/js/main.1865831a.js.map"
+    "main.31d981ca.js.map": "/helloworld3-react/static/js/main.31d981ca.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.1865831a.js"
+    "static/js/main.31d981ca.js"
   ]
 }
